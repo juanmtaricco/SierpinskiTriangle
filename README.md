@@ -1,5 +1,5 @@
 # SierpinskiTriangle
-A Java implementation of the algorithm to build a Sierpinski Triangle
+A Java implementation of the algorithm to build a Sierpinski Triangle using the chaos game method.
 
 From Wikipedia...
 
